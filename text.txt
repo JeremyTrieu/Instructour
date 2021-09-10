@@ -1,0 +1,16 @@
+#backend
+pip install googlemaps
+pip install django-cors-headers
+pip install djangorestframework
+pip install markdown  
+pip install django-filter
+pip install mysqlclient
+
+#DB
+sudo apt update
+sudo apt install mysql-server
+# sudo apt install mysql-client - Possibly needed
+
+#frontend
+npm install react-bootstrap@next bootstrap@5.1.0
+npm install zxcvbn

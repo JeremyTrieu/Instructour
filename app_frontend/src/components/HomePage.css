@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'SignupWebFont';
+  src: url('./Fjalla_One/FjallaOne-Regular.ttf')  format('truetype');
+}
+.bodyBackground {
+    background: url('../images/home_background_2.jpg');
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    width: 100%;
+}
+.logoArea {
+  display: flex;
+  justify-content: center;
+}
+.logo {
+  width: 17%;
+  text-align: center;
+  display: block;
+}
+.searchArea {
+  margin-top: 1vh;
+  display: flex;
+  justify-content: center;
+}
+.searchBox {
+  width: 40%;
+  margin: 0 auto;
+  height: 25%;
+  border: 1px solid rgba(17, 17, 17, 0.2);
+  box-sizing: border-box;
+  border-radius: 27px;
+  padding-left: 2%;
+  background: transparent;
+  color: #808080;
+  height: 10vh;
+  font-size: 3vh;
+  background: url('../images/magnifying-glass.svg') no-repeat 0.01%;
+  background-size: 70% 70%;
+  background-position: 180% 50%;
+  outline: none;
+  box-shadow: 5px 10px 18px #a3a3a3;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #a3a3a3;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #a3a3a3;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: #a3a3a3;
+}
+.loginArea{
+  margin-top: 6vh;
+  display: flex;
+  justify-content: center;
+}
+
+.login_button_home {
+  font-family: SignupWebFont;
+  background-color: #76cbe3;
+  box-shadow: 0 5px 0 #82b2bf;
+  color: white;
+  padding: 1em 1.5em;
+  position: relative;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.login_button_home:hover {
+  background-color: #78bacc;
+  cursor: pointer;
+}
+
+.login_button_home:active {
+  box-shadow: none;
+  top: 5px;
+}
+

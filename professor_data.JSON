@@ -1,0 +1,61 @@
+[{"name": "Le Thi Nhan",
+"school": "University of Science, Ho Chi Minh City",
+"subjects": "Database System",
+"rating": "2.00",
+"reviews": "Her instruction is not clear enough for me. You should better come to class on time."
+},
+{"name": "Dinh Ba Tien",
+"school": "University of Science, Ho Chi Minh City",
+"subjects": "CS161",
+"rating": "5.00",
+"reviews": "Best teacher I have ever had in UoS. He is kind and thoughtful."
+},
+{"name": "Tran Trong Nghia",
+"school": "Bui Thi Xuan High School, Ho Chi Minh City",
+"subjects": "Physics (Grade 12)",
+"rating": "4.00",
+"reviews": "His instruction is not clear enough for me. You should better come to class on time. His exams can be a little challenging though."
+},
+{"name": "Luc Minh Thuy",
+"school": "Bui Thi Xuan High School, Ho Chi Minh City",
+"subjects": "Chemistry (Grade 10)",
+"rating": "2.00",
+"reviews": "Her instruction is not clear enough for me. You should better focus and not talk too much in class."
+},
+{"name": "Jonathan Potter",
+"school": "City College of San Francisco",
+"subjects": "CS110A",
+"rating": "5.00",
+"reviews": "His instruction is very clear. His exams are also reasonable and should be obtainable if you follow his lectures. Highly recommend."
+},
+{"name": "Danny Vo",
+"school": "City College of San Francisco",
+"subjects": "Calculus 3",
+"rating": "4.00",
+"reviews": "Her instruction is not clear enough for me. You should better come to class on time."
+},
+{"name": "Le Thi Nhan",
+"school": "University of Science, Ho Chi Minh City",
+"subjects": "Database System",
+"rating": "2.00",
+"reviews": "Her instruction is not clear enough for me. You should better come to class on time."
+},
+{"name": "Duong Duc Lang",
+"school": "Nguyen Du Middle School, Ho Chi Minh City",
+"subjects": "Computer Science (Grade 8)",
+"rating": "4.00",
+"reviews": "He has clear instructions but is quite tough in class. You should focus and should not be late for his class."
+},
+{"name": "Tran Minh Triet",
+"school": "University of Science, Ho Chi Minh City",
+"subjects": "Mobile Application Development",
+"rating": "4.00",
+"reviews": "His instruction is clear and he is also very nice and opened for questions. For the projects, you should do more research yourself to finish them."
+},
+{"name": "Nguyen Trung Truc",
+"school": "Bui Thi Xuan High School, Ho Chi Minh City",
+"subjects": "Mathematics (Grade 11)",
+"rating": "2.00",
+"reviews": "His instruction is not clear enough for me. Hard exams." 
+}
+]

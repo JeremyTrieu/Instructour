@@ -1,0 +1,35 @@
+
+15/08/2021
+1. Backend:
+
+User Login Model
+Update Professor Model to include reviewers
+Create query to accept data from API to return query result to display on frontend
+
+22/08/2021
+1. Backend:
+
+Finish DB ModeL -> Done
+Backup DB before migration -> Done
+1st Attempt Address splitting -> Scape due to complexity
+Configure DB relationships -> Done
+
+29/08/2021
+1. Backend:
+
+Fix User Auth bug -> Done
+Password Reset -> Done
+
+
+04/09/2021
+1. Backend
+
+Implement CustomUserManager
+Fix api/auth
+
+Link: 
+
+1. https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html#abstractbaseuser
+2. https://gutsytechster.wordpress.com/2019/11/12/user-auth-operations-in-drf-login-logout-register-change-password/
+
+
