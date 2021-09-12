@@ -5,6 +5,11 @@ pip install djangorestframework
 pip install markdown  
 pip install django-filter
 pip install mysqlclient
+pip install djangorestframework-jwt
+pip install django-allauth
+pip install django-rest-auth
+pip install django-debug-toolbar
+pip install django-versatileimagefield
 
 #DB
 sudo apt update

@@ -32,4 +32,25 @@ Link:
 1. https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html#abstractbaseuser
 2. https://gutsytechster.wordpress.com/2019/11/12/user-auth-operations-in-drf-login-logout-register-change-password/
 
+11/09/2021
+1. Backend
+
+Signin Testing 
+Signup Testing 
+Profile
+User link to School
+Profile Picture
+
+Link:
+1. https://aaronpresley.com/writing/add-confirm-password-field-to-userserializer-in-django-rest-framework
+2. https://krakensystems.co/blog/2020/custom-users-using-django-rest-framework
+
+12/09/2021
+1. Backend
+
+Signin Testing -> Done
+Signup Testing -> Done
+
+Admin issues with get_auth_token()
+Profile Picture
 

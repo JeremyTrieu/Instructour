@@ -2,7 +2,7 @@ import React from 'react';
 import zxcvbn from 'zxcvbn';
 
 const PasswordStrengthMeter = ({password}) => {
-    console.log(password);
+    //console.log(password);
     const testResult = zxcvbn(password);
     const num = testResult.score * 100/4;  
 

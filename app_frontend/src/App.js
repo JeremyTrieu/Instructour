@@ -6,11 +6,13 @@ import {Switch} from 'react-router-dom';
 import HomePage from './components/HomePage.js';
 import SignInForm from './components/SignInForm.js';
 import ResetPassword from './components/ResetPassword';
+import ProfilePage from './components/ProfilePage';
 
 function App() {
   const lazyHomePage = React.lazy(() => import('./components/HomePage'));
   const lazyLogin = React.lazy(() => import('./components/SignInForm'));
   const lazyResetPassword = React.lazy(() => import('./components/ResetPassword'));
+  const lazyProfilePage = React.lazy(() => import('./components/ProfilePage'));
   return (
   <div>
     <Router>
@@ -23,6 +25,8 @@ function App() {
           <Route  path = '/login' component = {lazyLogin}/>
 
           <Route path = '/reset_password' component = {lazyResetPassword}/>
+
+          <Route path='/profile' component = {lazyProfilePage}/>
 
         </Switch>
       </React.Suspense>
